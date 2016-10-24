@@ -1,2 +1,3 @@
 # UMAnalyticsAndTool
-友盟crash统计，包含友盟的Demo 和分析crash分析使用工具
+友盟crash统计，包含友盟的Demo 和分析crash分析使用工具，以及调用runtime输出bug出现的视图控制器
+
